@@ -1,5 +1,5 @@
 # toptimal
-Disciplina de tópicos em otimização
+Disciplina de tópicos em otimização -- UFRPE
 
 
 #### Requisitos
